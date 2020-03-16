@@ -1,3 +1,5 @@
+package com.hajela.handson;
+
 public class HelloWorldTest {
 
     public void testHello(){
